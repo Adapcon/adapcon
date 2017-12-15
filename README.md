@@ -1,5 +1,7 @@
 # adapcon
 
+We are a Brazilian company of software development.
+
 Our purpose is to facilitate the day to day of our clients creating software with strategy, relevance and proximity.
 
 Ever imagined having a partner who understands you and wants to improve your relationship over time, making it efficient and generating savings?
